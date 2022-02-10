@@ -3,7 +3,7 @@
 1. print-fn.py:
 This program prints "hello world"
 </br></br>
-Output:
+Output:</br>
 ![img_1.png](print-fn.png)
 </br></br>
 2. variables.py:
@@ -16,7 +16,7 @@ This program illustrates the following,
 3. inputs.py: </br>
 Accepting values from users and displaying in console.
 </br></br>
-Output:
+Output:</br>
 ![img.png](inputs.png)
 
 
