@@ -12,7 +12,8 @@ This program illustrates the following,
 * Type conversion (numbers to string: We can't concatenate strings with numbers, so convert numbers to strings)
 * Updating value of a variable
 * Concatenation (by using '+' operator)
-</br>
+</br></br>Output: </br>
+![img.png](ouput_images/variables.png)
 3. inputs.py: </br>
 Accepting values from users and displaying in console.
 </br></br>
