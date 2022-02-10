@@ -18,6 +18,5 @@ This program illustrates the following,
 Accepting values from users and displaying in console.
 </br></br>
 Output:</br>
-   ![img.png](ouput_images/inputs.png "inputs.png")
-
+   
 
