@@ -3,6 +3,9 @@
 1. print-fn.py:
 This program prints "hello world"
 </br></br>
+Output:
+![img_1.png](print-fn.png)
+</br></br>
 2. variables.py:
 This program illustrates the following,
 * Declaring variables
@@ -10,7 +13,10 @@ This program illustrates the following,
 * Updating value of a variable
 * Concatenation (by using '+' operator)
 </br>
-3. 
-
+3. inputs.py: </br>
+Accepting values from users and displaying in console.
+</br></br>
+Output:
+![img.png](inputs.png)
 
 
