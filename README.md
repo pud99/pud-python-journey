@@ -1,1 +1,1 @@
-# my-python
+# pud-python-journey
