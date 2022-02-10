@@ -19,4 +19,22 @@ Accepting values from users and displaying in console.
 </br></br>
 Output:</br>
    ![img.png](ouput_images/inputs.png)
-
+</br></br>
+4. sum_of_2_numbers.py: </br>
+This will take 2 integer inputs from users and print the sum </br>
+</br></br>Output:</br>
+![img.png](ouput_images/sum_of_2_numbers.png)
+</br></br>
+5. if-else.py: </br>
+This program checks the age input by user for voting rights.
+</br></br>Output:</br>
+![img.png](ouput_images/if-else.png)
+</br></br>
+6. list.py:</br>
+This programs illustrates the following:
+* Type conversion
+* List indexing
+* Printing range from the list
+* Print list in reverse 
+</br></br>Output:</br>
+![img.png](ouput_images/list.png)
