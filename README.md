@@ -4,7 +4,7 @@
 This program prints "hello world"
 </br></br>
 Output:</br>
-![img_1.png](print-fn.png)
+![img_1.png](ouput_images/print-fn.png)
 </br></br>
 2. variables.py:
 This program illustrates the following,
@@ -17,6 +17,6 @@ This program illustrates the following,
 Accepting values from users and displaying in console.
 </br></br>
 Output:</br>
-![inputs.png](inputs.png)
+![inputs.png](ouput_images/inputs.png)
 
 
