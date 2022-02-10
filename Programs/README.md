@@ -22,7 +22,7 @@ Output:</br>
 </br></br>
 4. sum_of_2_numbers.py: </br>
 This will take 2 integer inputs from users and print the sum </br>
-</br></br>Output:</br>
+</br>Output:</br>
 ![img.png](ouput_images/sum_of_2_numbers.png)
 </br></br>
 5. if-else.py: </br>
