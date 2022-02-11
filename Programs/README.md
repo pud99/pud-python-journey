@@ -53,3 +53,30 @@ This program illustrates the following:
 </br></br>Output:</br>
 ![img.png](ouput_images/tuple.png)
 </br></br>
+
+8. **sets.py:**</br>
+This program prints list of student marks.
+</br></br>Output:</br>
+![img.png](ouput_images/sets.png)
+</br></br>
+
+9. **dictionary.py:**</br>
+* This program shows key-value pair of subject(key) and marks(value).
+* Basic operations are performed on the dictionary.
+</br></br>Output:</br>
+![img.png](ouput_images/dictionary.png)
+</br></br>
+
+10. **module-fn.py:**</br>
+* Define and use python module functions.
+* Calculate square root of numbers input by users.
+</br></br>Output:</br>
+![img.png](ouput_images/module-fn.png)
+</br></br>
+
+11. **user-def-fn.py:**</br>
+* Understanding user defined functions.
+* Assigning a default value inside a function.
+</br></br>Output:</br>
+![img.png](ouput_images/user-def-fn.png)
+</br></br>
