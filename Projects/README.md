@@ -15,7 +15,7 @@ Output:</br>
 </br></br>
 
 3. **number_guess.py:**
-This program asks users to guess a number that the computer is thinking about.
+This program asks users to guess a number that the computer is thinking of.
 </br></br>
 Output:</br>
 ![img.png](../Programs/ouput_images/number_guess.png)
