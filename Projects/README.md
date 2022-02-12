@@ -20,3 +20,10 @@ This program asks users to guess a number that the computer is thinking of.
 Output:</br>
 ![img.png](../Programs/ouput_images/number_guess.png)
 </br></br>
+
+4. **rock_pap_sci.py:**
+This is a classic rock, paper and scissors game with scoreboard.
+</br></br>
+Output:</br>
+![img.png](project_rock_pap_sci.png)
+</br></br>
