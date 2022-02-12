@@ -15,7 +15,7 @@ while True:
     user_pick = input("Choose an option: rock, paper, scissors or press Q to quit\n").lower()
 
     if user_pick in options:
-        print("Your choice", user_pick)
+        print("You picked:", user_pick)
 
     elif user_pick == "q":
         print("Bye!")
