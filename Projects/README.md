@@ -25,5 +25,5 @@ Output:</br>
 This is a classic rock, paper and scissors game with scoreboard.
 </br></br>
 Output:</br>
-![img.png](project_rock_pap_sci.png)
+![img.png](../Programs/ouput_images/project_rock_pap_sci.png)
 </br></br>
