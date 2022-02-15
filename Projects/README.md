@@ -27,3 +27,16 @@ This is a classic rock, paper and scissors game with scoreboard.
 Output:</br>
 ![img.png](../Programs/ouput_images/project_rock_pap_sci.png)
 </br></br>
+
+5. **password_manager.py:**
+This is a password basic manager, this project illustrates the following:
+
+* Try/except block
+* File handling using context manager
+* Encryption and decryption using Cryptography module (Fernet symmetric encryption)
+* rstrip to remove the "\n" from printing
+
+NOTE: THIS IS A PIVOT PROJECT, DO NOT USE IT TO STORE YOUR ACTUAL PASSWORDS.
+</br></br>
+![img.png](../Programs/ouput_images/project-password_manager.png)
+</br></br>
