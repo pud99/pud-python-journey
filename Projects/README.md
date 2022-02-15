@@ -29,7 +29,7 @@ Output:</br>
 </br></br>
 
 5. **password_manager.py:**
-This is a password basic manager, this project illustrates the following:
+This is a basic password manager, this project illustrates the following:
 
 * Try/except block
 * File handling using context manager
