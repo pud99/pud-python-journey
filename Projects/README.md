@@ -43,3 +43,13 @@ NOTE:
 </br></br>
 ![img.png](../Programs/ouput_images/project-password_manager.png)
 </br></br>
+
+6. **get_weather.py:**
+This program fetches temperature of the city input by user. This program illustrates:
+* Open Weather API (https://openweathermap.org/)
+* "Requests" module
+* round(x, 2) - round values upto 2 decimal digits
+</br></br>
+Output:</br>
+![img.png](../Programs/ouput_images/get_weather.png)
+</br></br>
