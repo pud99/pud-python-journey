@@ -33,7 +33,8 @@ This is a basic password manager, this project illustrates the following:
 
 * Try/except block
 * File handling using context manager
-* Encryption and decryption using Cryptography module (Fernet symmetric encryption)
+* Encryption and decryption using "Cryptography" module (Fernet symmetric encryption)
+* "pathlib" module to check if file exists
 * rstrip to remove the "\n" from printing
 
 NOTE: 
